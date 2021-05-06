@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.e6a65636.chunk.js",
-    "main.js.map": "/my-app/static/js/main.e6a65636.chunk.js.map",
+    "main.js": "/my-app/static/js/main.a322c5a6.chunk.js",
+    "main.js.map": "/my-app/static/js/main.a322c5a6.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.bba6e459.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.bba6e459.js.map",
     "static/js/2.30f9e020.chunk.js": "/my-app/static/js/2.30f9e020.chunk.js",
@@ -13,12 +13,13 @@
     "static/media/Gordita-Medium.6ad95cd5.otf": "/my-app/static/media/Gordita-Medium.6ad95cd5.otf",
     "static/media/Manrope-Bold.5fdad9f3.otf": "/my-app/static/media/Manrope-Bold.5fdad9f3.otf",
     "static/media/Manrope-Medium.3bd28c38.otf": "/my-app/static/media/Manrope-Medium.3bd28c38.otf",
+    "static/media/hero-mobile.58f1f4b6.png": "/my-app/static/media/hero-mobile.58f1f4b6.png",
     "static/media/hero.3b72e86b.png": "/my-app/static/media/hero.3b72e86b.png",
     "static/media/icon-briefcase.58609efd.svg": "/my-app/static/media/icon-briefcase.58609efd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bba6e459.js",
     "static/js/2.30f9e020.chunk.js",
-    "static/js/main.e6a65636.chunk.js"
+    "static/js/main.a322c5a6.chunk.js"
   ]
 }
